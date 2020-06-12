@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="8770.5468"
-     inkscape:cy="203.21185"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="8705.5493"
+     inkscape:cy="230.98296"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer19"
      showgrid="false"
      units="px"
      inkscape:snap-global="false"
@@ -2282,8 +2282,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Medioevo"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path1373"
@@ -2326,8 +2325,7 @@
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="Francia"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          y="79.953621"
          x="1648.9081"
@@ -5389,8 +5387,7 @@
        inkscape:groupmode="layer"
        id="layer16"
        inkscape:label="Chiesa"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          style="display:inline;opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.46063322;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2669"
@@ -5924,8 +5921,7 @@
        inkscape:groupmode="layer"
        id="layer19"
        inkscape:label="Inghilterra"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          y="-0.033072501"
          x="1630.6969"
@@ -5960,8 +5956,8 @@
              id="rect2794-2"
              style="fill:#ff0000" /></flowRegion><flowPara
            id="flowPara2798-9">Alfredo il Grande</flowPara></flowRoot>      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.42698756px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="M 2189.5924,78.773329 V 23.647135"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.35044926px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2240.227,135.27469 V 98.140156"
          id="path2479-1"
          inkscape:connector-curvature="0" />
       <flowRoot
@@ -6394,7 +6390,38 @@
            id="flowPara3255"
            style="font-weight:bold">1259</flowPara><flowPara
            id="flowPara3261">Pace di Parigi.</flowPara><flowPara
-           id="flowPara3263">Enrico III d'Inghilterra riconosce la perdita dei feudi francesi, Luigi IX gli riconosce il possesso della Guienna</flowPara></flowRoot>    </g>
+           id="flowPara3263">Enrico III d'Inghilterra riconosce la perdita dei feudi francesi, Luigi IX gli riconosce il possesso della Guienna</flowPara></flowRoot>      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:0.29484823px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 2245.2648,79.386941 V 33.264717 h 154.2307 v 46.122224"
+         id="path3642"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         transform="matrix(0.41583967,0,0,0.41583967,-100.08447,193.00807)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+         id="flowRoot3272-3"
+         xml:space="preserve"><flowRegion
+           style="fill:#ff0000"
+           id="flowRegion3268-6"><rect
+             style="fill:#ff0000"
+             y="-449.64441"
+             x="5714.8369"
+             height="109.248"
+             width="230.87036"
+             id="rect3266-7" /></flowRegion><flowPara
+           id="flowPara3270-5">1337-1453</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3689"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+         transform="matrix(0.31327815,0,0,0.31327815,468.44548,161.42757)"><flowRegion
+           id="flowRegion3685"
+           style="fill:#ff0000"><rect
+             id="rect3683"
+             width="410.29648"
+             height="58.075142"
+             x="5714.8369"
+             y="-449.64441"
+             style="fill:#ff0000" /></flowRegion><flowPara
+           id="flowPara3687">Guerra dei 100 anni</flowPara></flowRoot>    </g>
     <path
        inkscape:connector-curvature="0"
        id="path1379"
@@ -6421,7 +6448,8 @@
      inkscape:groupmode="layer"
      id="layer18"
      inkscape:label="Firenze"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        y="79.375"
        x="2372.562"
@@ -6928,7 +6956,7 @@
          id="flowPara3730"
          style="font-weight:normal;text-align:center;text-anchor:middle">Annessione </flowPara><flowPara
          style="font-weight:normal;text-align:center;text-anchor:middle"
-         id="flowPara3736">di Arezzoi</flowPara></flowRoot>  </g>
+         id="flowPara3736">di Arezzo</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
