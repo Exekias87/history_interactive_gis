@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cnosso.kml</name>
+	<StyleMap id="msn_homegardenbusiness0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_homegardenbusiness">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Cnosso</name>
+		<description><![CDATA[<img src="https://cdna.artstation.com/p/assets/images/images/009/607/872/large/j-r-casals-knossos-v01-looks.jpg?1519916289">
+<img src="https://sasgreekart.pbworks.com/f/1228498753/bull_jumping_fresco.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Knossos_fresco_women.jpg">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0oQF_wnyTk0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></description>
+		<LookAt>
+			<longitude>25.16408029295617</longitude>
+			<latitude>35.29783070627139</latitude>
+			<altitude>17.54438513680799</altitude>
+			<heading>4.675532027463568</heading>
+			<tilt>13.39488919702124</tilt>
+			<range>358.8456049689729</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_homegardenbusiness0</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>25.16317896137882,35.29791025812798,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
